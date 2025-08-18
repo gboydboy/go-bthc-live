@@ -1,0 +1,22 @@
+# env
+.env
+.env.*
+!.env.example
+
+# editor swaps / temp
+*~
+.*.swp
+*.swp
+*.kate-swp
+*.tmp
+
+# node/next
+node_modules/
+.next/
+dist/
+out/
+node_modules/
+.next/
+.env*
+dist/
+out/
